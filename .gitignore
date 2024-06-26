@@ -1,4 +1,5 @@
 # ignore local only directories
+local/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
